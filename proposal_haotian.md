@@ -38,6 +38,14 @@ Web Log
 
 ## Draft Proposal
 
+Tools will be used:
+
+1. Kafka as the data ingestion and transportation layer
+2. Casssandra as the data storage layer
+3. Spark as the data analysis layer
+4. Programming in Python
+5. Front-end tools such as node.js, redis.
+
 Functionalities:
 
 1. Basic data processing and visualization
