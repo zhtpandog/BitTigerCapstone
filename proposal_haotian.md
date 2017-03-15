@@ -39,7 +39,9 @@ Web Log
 ## Draft Proposal
 
 Functionalities:
+
 1. Basic data processing and visualization
+
 The project can realize functions such as:
 - Group by IP address, seeing what are the websites a certain user likes to visit.
 - Group by URL, seeing what are the most popular URLs.
@@ -48,6 +50,7 @@ The project can realize functions such as:
 A user can see the data he wants to see by customizing his filtering or aggregation preferences.
 
 2. Further data mining
+
 (1) Locality Sensitive Hashing
 Find similar users.
 Find similar URLs.
